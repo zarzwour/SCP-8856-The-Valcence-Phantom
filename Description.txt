@@ -1,0 +1,11 @@
+**Description:** SCP-8856 is a heavy, matte black cylindrical device resembling an 80mm mortar shell. It is composed of an unidentified, nonconductive, ceramic like material. The base has 3 mechanical, interlocking brass in color dials. The top contains a hollow funnel like chamber.
+
+SCP-8856 functions as a Valency Oscillator. This device can alter the electron count of targeted matter through induced atomic resonance. The device requires a sample of the targeted material to be inserted into the chamber on top  to “tune”. Once tuned, the operator can twist the base dials to select one of two firing modes, projecting a 30 degree cone of influence up to 600 feet.
+
+**Spontaneous Activation Anomaly:** While SCP-8856 requires manipulation to change physical settings and for tuning, it does not require a user to fire. At unpredictable intervals ranging from 30 seconds to 4 months, the device will spontaneously activate. When this occurs, SCP-8856 will fire using the exact material tuning and dial setting it was last activated with.
+
+**Mode A: Oxidative Strip (Electron Subtraction):** SCP-8856 forcefully removes the valence electrons from the atomic lattice of the tuned material. The targeted material will undergo a massive Coulombic Explosion. The underlying physics is governed by the electrostatic repulsion between the unbonded, positively charged nuclei calculated via Coulomb’s law.
+
+The target material violently liquefies and atomizes into a hyper-velocity spray of molten plasma and ionizing radiation. SCP-8856 will store these electrons detectable via electrical charge. If said charge is above ████Terajoules a catastrophic immediate release has been observed.
+
+**Mode B: Reductive Flood (Electron Addition):** The activation of this function shall only be conducted with a stored charge of ████Terajoules or higher. It will flood the tuned material with these stored electrons. If tuned to organic carbon, the target’s internal structure suffers catastrophic Reductive Stress. H₂O is forced into highly caustic Hydroxide (OH-) internally liquifying the target into chemical lye, all while the target’s body becomes a negative capacitator, discharging millions of volts into the atmosphere and turning their skeletal structure into incandescent plasma.

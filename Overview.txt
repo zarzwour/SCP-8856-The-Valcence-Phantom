@@ -1,0 +1,12 @@
+**Item #:** SCP-8856
+
+**Object Class:** Euclid | Thaumiel
+
+**Special Containment Procedures:** SCP 8856 is to be stored within a specialized sarcophagus with a minimum depth of 600 feet below sea level, in a vacuum sealed chamber, lined with 2 feet of solid-cast lead lining. The chamber shall also be filled with an atmospheric concentration of 50% Argon, 50% Neon at 0.5atm. This neutral environment preventing an uncontrollable drawing of electrons from ambient matter during a spontaneous additive discharge.
+
+SCP-8856 must remain permanently mounted to a Class-V industrial grounding harness connected to a network of copper rods driven 150ft into bedrock. This acts as a bleed off during spontaneous subtractive discharges.
+
+**Charge:** SCP-8856 must be constantly monitored via non-contact electrometers. If the reading falls under ████ Terajoules an immediate firing in Mode A must commence. Alternatively, if the reading goes over ████ Terajoules an immediate firing in Mode B must commence. Failure to keep these within parameters can result in catastrophic atmospheric events upon firing.
+
+**Safe-State Protocol:** Following the conclusion of any testing, SCP-8856 must be manually tuned to synthetic Tungsten on Mode A (Electron Subtraction), with a 500kg block of synthetic Tungsten permanently housed on a moveable arm, stored just outside of SCP-8856’s cone, with possibility of moving it into its cone of fire.
+If the grounding or vacuum system fails, an automated Class III Electrostatic Hazard Alarm will sound, enacting a 300ft evacuation zone for all personnel.
