@@ -2,7 +2,7 @@
 
 SCP-8856 functions as a Valency Oscillator. This device can alter the electron count of targeted matter through induced atomic resonance. The device requires a sample of the targeted material to be inserted into the chamber on top  to “tune”. Once tuned, the operator can twist the base dials to select one of two firing modes, projecting a 30 degree cone of influence up to 600 feet.
 
-**Spontaneous Activation Anomaly:** While SCP-8856 requires manipulation to change physical settings and for tuning, it does not require a user to fire. At unpredictable intervals ranging from 30 seconds to 4 months, the device will spontaneously activate. When this occurs, SCP-8856 will fire using the exact material tuning and dial setting it was last activated with.
+**Spontaneous Activation Anomaly:** While SCP-8856 requires manipulation to change physical settings and for tuning, it does not require a user to fire. At unpredictable intervals ranging from 12 hours to 4 months, the device will spontaneously activate. When this occurs, SCP-8856 will fire using the exact material tuning and dial setting it was last activated with.
 
 **Mode A: Oxidative Strip (Electron Subtraction):** SCP-8856 forcefully removes the valence electrons from the atomic lattice of the tuned material. The targeted material will undergo a massive Coulombic Explosion. The underlying physics is governed by the electrostatic repulsion between the unbonded, positively charged nuclei calculated via Coulomb’s law.
 
