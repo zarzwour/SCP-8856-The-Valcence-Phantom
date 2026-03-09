@@ -1,6 +1,14 @@
 **Item #:** SCP-8856
 
-**Object Class:** Keter | Thaumiel
+[[include :scp-wiki:component:anomaly-class-bar-source
+|item-number= 8856
+|clearance= 5
+|container-class= keter
+|secondary-class= thaumiel
+|secondary-icon= https://scp-wiki.wikidot.com/local--files/component:anomaly-class-bar/thaumiel-icon.svg
+|disruption-class= amida
+|risk-class= critical
+]]
 
 **Special Containment Procedures:** SCP 8856 is to be stored within a specialized sarcophagus with a minimum depth of 600 feet below sea level, in a vacuum sealed chamber, lined with 2 feet of solid-cast lead lining. The chamber shall also be filled with an atmospheric concentration of 50% Argon, 50% Neon at 0.5atm. This neutral environment preventing an uncontrollable drawing of electrons from ambient matter during a spontaneous additive discharge.
 
