@@ -18,3 +18,5 @@ SCP-8856 must remain permanently mounted to a Class-V industrial grounding harne
 
 **Safe-State Protocol:** Following the conclusion of any testing, SCP-8856 must be manually tuned to synthetic Tungsten on Mode A (Electron Subtraction), with a 500kg block of synthetic Tungsten permanently housed on a moveable arm, stored just outside of SCP-8856’s cone, with possibility of moving it into its cone of fire.
 If the grounding or vacuum system fails, an automated Class III Electrostatic Hazard Alarm will sound, enacting a 300ft evacuation zone for all personnel.
+
+**Addendum 8856-Directive:** SCP-8856 has been approved for restricted deployment in Omega-Level Containment Failure Scenarios, including neutralization of large-scale anomalous entities or hostile infrastructure.
