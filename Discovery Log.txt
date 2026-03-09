@@ -1,0 +1,152 @@
+Addendum 8856-01
+Discovery Log
+
+Location: Abandoned WWII-era bunker complex, ███████, Germany
+Date of Recovery: ███████
+Responding Units: Foundation Archaeological Survey Team ███████ & MTF ███████
+
+The bunker found to contain SCP-8856 was initially discovered during a Foundation investigation into undocumented ███████ research facilities that were believed to have collapsed near the end of World War II.
+
+The bunker complex was found to be buried under 100-150 feet of earth and believed to have collapsed near 194█–194█ based on structural dating and corrosion analysis.
+
+Entry was achieved through excavation of a collapsed ventilation shaft.
+
+The first anomaly was discovered immediately upon breaching the inner laboratory corridor.
+
+
+
+Initial Observations:
+
+Foundation personnel reported a distinct cone-shaped path of devastation extending roughly 600 feet through multiple reinforced bunker walls.
+
+Within this corridor:
+
+Reinforced concrete walls were cleanly atomized
+
+Steel support beams seemingly decimated and shows evidence of extreme heat
+
+Surfaces showed severe electrostatic pitting
+
+The destruction appeared to follow a distinct path.
+
+Outside this path, the bunker remained almost completely intact.
+
+This geometric pattern was the first indicator of an anomalous device.
+
+
+
+Laboratory Chamber
+
+The source of the damage was located inside a sealed research chamber designated Raum-7 in recovered documents.
+
+Inside the chamber, personnel discovered:
+
+A steel research platform
+
+Several destroyed electrical measurement instruments
+
+Extensive radiation shielding structures
+
+A device matching the description of SCP-8856
+
+The device was found mounted on a primitive steel test frame oriented toward a reinforced bunker blast door located at the entrance of the chamber.
+
+The blast door shows evidence of being partially vaporized.
+
+The remainder of the door had undergone extreme Coulombic structural failure, with sections peeled outward as if subjected to immense electrostatic repulsion.
+
+
+
+Personnel Remains:
+
+Seven individuals believed to be German scientist were discovered within the chamber.
+
+No conventional human remains were present.
+
+investigators found dark carbonized silhouettes embedded directly into the concrete floor and surrounding walls.
+
+These silhouettes strongly resembled the well-known “atomic shadows” observed at Hiroshima following the detonation of nuclear weapons.
+
+However, these specific shadows varied from the Hiroshima “Atomic Shadows”
+
+The silhouettes were etched several millimeters into the concrete
+
+Surrounding areas were vitrified
+
+Traces of extreme electromagnetic discharge were detected
+
+The positions of the silhouettes suggest the individuals were:
+
+standing near instrumentation
+
+observing the test apparatus
+
+positioned behind shielding barriers
+
+With all evidence it is estimated that the personnel were instantaneously converted to plasma during a high-energy discharge event.
+
+
+
+Additional Environmental Evidence
+
+Upon further investigation of the Bunker complex, investigators found further anomalous signs indicating multiple prior test firings:
+
+
+Observation A (Test Corridor):
+
+A separate hallway showed repeated conical craters in reinforced concrete.
+
+Fragments of steel doors displayed violent electrostatic fracture patterns consistent with Mode A: Oxidative Strip.
+
+
+
+Observation B (Containment Pit):
+
+A deep concrete pit contained several heavily damaged test objects:
+
+Armored Steel Plates
+
+Granite blocks
+
+Melted Instrumentation Frames
+
+Each object exhibited identical Coulombic atomization signatures.
+
+
+
+Observation C  (Electrical Infrastructure):
+
+The bunker contained an unusually extensive and complex grounding system for the time period.
+
+Large copper rods had been driven over 40 feet into surrounding bedrock, connected to heavy cables.
+
+Several rods had been partially vaporized and melted, indicating extreme electrostatic discharge events.
+
+
+Recovery:
+
+Upon discovery, SCP-8856 was found in an inactive state with all mechanical dials set to Mode A.
+
+The upper funnel chamber contained traces of Tungsten and Uranium residue, suggesting the device had previously been tuned to multiple materials.
+
+Transport required the construction of a temporary grounding array to prevent uncontrolled electrostatic buildup.
+
+SCP-8856 was transferred to ███████ containment at ███████ on ███████
+
+
+
+Researcher Notes:
+
+Dr. ███████ — Initial Analysis
+
+“The Nazis clearly didn’t understand what they built.
+
+They treated it like a directed energy weapon.
+
+But judging by the grounding rods and the damage in this room, they must have triggered a charge cascade they couldn’t control.
+
+Those shadows on the floor?
+
+That wasn’t a weapon test.
+
+That was the moment they realized they had built something far worse.”

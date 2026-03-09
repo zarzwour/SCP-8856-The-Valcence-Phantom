@@ -1,0 +1,202 @@
+Addendum 8856-Ω
+Near XK-Class Event: Atmospheric Cascade Test
+
+Incident Designation: 8856-Ω-A
+Location: ███████ High Energy Vacuum Laboratory
+Clearance: Level 5 (Top Secret)
+Date: ██/██/20██
+
+
+Test Objective
+
+Researchers attempted to observe the behavior of Mode A: Oxidative Strip when applied to atmospheric gases in an oxygen gas rich environment.
+
+Because uncontrolled atmospheric reactions were considered possible, the experiment was conducted inside a reinforced spherical vacuum chamber with the following parameters:
+
+Chamber diameter: ███████ft
+
+Internal pressure: 0.02 atm
+
+Gas composition: 99.9% Nitrogen
+
+Observation window: ███████ layered borosilicate composite
+
+External environment: Vacuum sealed chamber
+
+
+
+A small volume of nitrogen gas contained within a glass sphere was inserted into SCP-8856’s tuning chamber.
+
+The device was positioned so that the 30° cone of influence would intersect the center of the vacuum chamber without the span of the cone exceeding the chamber.
+
+
+Purpose of the test:
+
+Determine whether electron stripping of common atmospheric gasses would remain localized or propagate through adjacent gas.
+
+
+
+Timeline
+T+00:00
+
+Chamber and corresponding sub-facility evacuated.
+
+Nitrogen test gas released into the center of the chamber.
+
+Device charge measured at ███ Terajoules.
+
+
+
+T+00:01
+
+Mode A activation.
+
+Within the cone of influence the nitrogen gas instantly ionizes.
+
+Molecular bonds break apart as electrons are stripped from nitrogen atoms.
+
+The result is an expanding plasma filament approximately 15ft long.
+
+Initial results appear consistent with predictions.
+
+
+
+T+00:02
+
+The ionized nitrogen begins pulling electrons from adjacent nitrogen molecules outside the direct cone.
+
+Researchers initially believe this is normal plasma diffusion. However the reaction does not decay. Instead its accelerating.
+
+
+
+T+00:03
+
+The ionized region begins spreading radially.
+
+A glowing column of plasma forms along the entire perimeter the firing cone.
+
+The chamber interior fills with intense blue-white light.
+
+Sensors detect extreme electromagnetic levels & Radioactivity.
+
+
+
+T+00:04
+
+The reaction begins behaving like a cascading ionization reaction.
+
+Every nitrogen molecule that loses electrons destabilizes neighboring molecules.
+
+The plasma column expands beyond the projected cone boundary.
+
+Chamber pressure begins rising rapidly.
+
+
+
+T+00:05
+
+Electromagnetic & Radiation Alarms activate.
+
+The reaction is happening too fast for the researchers to fully understand the magnitude of what is happening.
+
+Simulation systems predict the following if the plasma escapes the chamber:
+
+atmospheric nitrogen would continue the reaction
+
+electron stripping could propagate through surrounding air
+
+resulting plasma chain could spread through the atmosphere
+
+Projected worst-case outcome:
+
+planet-wide atmospheric plasma cascade
+
+Classification: XK-Class End-of-the-World Scenario
+
+
+
+T+00:06
+
+The plasma front expands to within 1.2 meters of the vacuum chamber wall.
+
+Temperature inside chamber exceeds ████ K.
+
+The containment window begins softening.
+
+The chamber wall begins developing electrostatic fracture lines.
+
+
+
+T+00:07
+
+The chamber is flooded with Argon and Neon Gas.
+
+Due to the full valence shell of the gases it displaces the nitrogen slowing the reaction.
+
+A bright orange-red glow is observed.
+
+T+00:10
+
+Runaway reaction is slowed and becomes less chaotic
+
+
+T+00:15
+
+All reactions cease. Containment is deemed safe.
+
+
+Damage:
+
+Vacuum chamber interior:
+
+Severe plasma erosion
+
+Partial vitrification of interior walls
+
+Observation window destroyed
+
+Distance between plasma front and chamber wall at termination measured at 1.2ft
+
+
+Post-Incident Analysis:
+
+Foundation physicist determined that the experiment nearly created a runaway atmospheric ionization reaction.
+
+If the plasma cascade had breached the vacuum chamber, the reaction could have entered Earth's atmosphere resulting in an XK-Class End of World Scenario.
+
+Computer models indicate the cascade could have propagated globally within minutes.
+
+
+Estimated consequences:
+
+Ignition of Earths Atmopshere
+
+planet-wide electrical discharges
+
+collapse of biosphere
+
+
+
+O5 Council Directive:
+
+All testing involving atmospheric gases with SCP-8856 is permanently banned.
+
+Approved tuning materials are now restricted to:
+
+Tungsten
+
+Copper
+
+Kevlar
+
+Granite
+
+Controlled Metallic Alloys
+
+Testing on nitrogen, oxygen, or carbon compounds requires unanimous O5 authorization.
+
+
+
+O5 Commentary
+
+“We almost turned the sky into a plasma reactor.”
